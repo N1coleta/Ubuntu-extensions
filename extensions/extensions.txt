@@ -1,0 +1,12 @@
+https://gitlab.gnome.org/GNOME/gnome-shell-extensions
+https://www.gnome-look.org/p/2091068
+https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator
+https://github.com/Schneegans/Desktop-Cube
+https://github.com/sunwxg/gnome-shell-extension-unlockDialogBackground
+
+https://github.com/tuberry/user-theme-x
+Style:Prefer-dark ,Prefer-dark
+Gtk3:Yaru-sage-dark,Yaru-sage-dark
+Shell:Yaru-sage-dark,Yaru-sage-dark
+Icons:Colorfull-Dark,Colorfull-Dark
+Cursor: Adawaita , Adawaita	
